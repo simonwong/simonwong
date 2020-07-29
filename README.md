@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![simonwong's github stats](https://github-readme-stats.vercel.app/api?username=simonwong&show_icons=true)](https://github.com/simonwong)
+![simonwong's github stats](https://github-readme-stats.vercel.app/api?username=simonwong&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwong)](https://github.com/simonwong)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwong&hide=html,css)
