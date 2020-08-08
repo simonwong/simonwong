@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 ![simonwong's github stats](https://github-readme-stats.vercel.app/api?username=simonwong&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwong&hide=html,css)
+
+-->
