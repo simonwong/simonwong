@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on MHC
-- 🌱 I’m currently learning Java and Computer Basics
+- 🌱 I’m currently learning Computer Basics and Engineering
 - 💬 Ask me about anything [here](https://github.com/simonwong/simonwong/issues)
 
 
