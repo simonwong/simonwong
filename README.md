@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on WWL
+- 🔭 I’m currently working on WWL-IDX
 - 🌱 I’m currently learning Computer Basics and Engineering
 - 💬 Ask me about anything [here](https://github.com/simonwong/simonwong/issues)
 
