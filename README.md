@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on WWL-IDX
-- 🌱 I’m currently learning Computer Basics and Engineering
+- 🌱 I’m currently learning C++ and Compilers
 - 💬 Ask me about anything [here](https://github.com/simonwong/simonwong/issues)
 
 
