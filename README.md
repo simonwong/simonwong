@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Hi there GIF"/>
 
-- ✍️ I’m currently writing at [blog](https://simonwong.cn/)
+- ✍️ I’m currently writing at [Blog Site](https://simonwong.cn/)
 - 🔭 I’m currently posting at [X / Twitter](https://x.com/simonwongio)
 - 👨🏻‍💻 I’m currently vibe-coding
 - 💬 Ask me about anything [here](https://github.com/simonwong/simonwong/issues)
