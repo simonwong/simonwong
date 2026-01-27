@@ -23,6 +23,8 @@
 
 ### Active
 
+- [redbook-text2img](https://github.com/simonwong/redbook-text2img) Online: https://www.redbook-text2img.site/
+
 ### Archived
 
 - [clash-forward](https://github.com/simonwong/clash-forward)
