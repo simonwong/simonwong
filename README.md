@@ -24,6 +24,7 @@
 ### Active
 
 - [redbook-text2img](https://github.com/simonwong/redbook-text2img) Online: https://www.redbook-text2img.site/
+- [writing-skills](https://github.com/simonwong/writing-skills) writing skills
 
 ### Archived
 
