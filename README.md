@@ -24,6 +24,7 @@
 ### Active
 
 - [redbook-text2img](https://github.com/simonwong/redbook-text2img) Online: https://www.redbook-text2img.com
+- [easy-shadcn](https://github.com/simonwong/easy-shadcn) Online: https://easy-shadcn.vercel.app
 - [writing-skills](https://github.com/simonwong/writing-skills) writing skills
 
 ### Archived
