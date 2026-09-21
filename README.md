@@ -28,6 +28,7 @@
 - [writing-skills](https://github.com/simonwong/writing-skills) writing skills
 - [Speaker](https://github.com/simonwong/speaker) A native voice typing app for macOS
 - Tool site: https://vectobox.com
+- [Shader Tab](https://github.com/simonwong/shader-tab) A calm Chrome new tab extension with interactive shader backgrounds and bookmarks. https://shadertab.simonwong.cn/
 
 ### Archived
 
